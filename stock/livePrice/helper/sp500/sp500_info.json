@@ -1,0 +1,2014 @@
+{
+    "MMM": {
+        "ticker": "3M",
+        "Alt_Symbol": null
+    },
+    "AOS": {
+        "ticker": "A. O. Smith",
+        "Alt_Symbol": null
+    },
+    "ABT": {
+        "ticker": "Abbott",
+        "Alt_Symbol": null
+    },
+    "ABBV": {
+        "ticker": "AbbVie",
+        "Alt_Symbol": null
+    },
+    "ACN": {
+        "ticker": "Accenture",
+        "Alt_Symbol": null
+    },
+    "ADBE": {
+        "ticker": "Adobe Inc.",
+        "Alt_Symbol": null
+    },
+    "AMD": {
+        "ticker": "Advanced Micro Devices",
+        "Alt_Symbol": null
+    },
+    "AES": {
+        "ticker": "AES Corporation",
+        "Alt_Symbol": null
+    },
+    "AFL": {
+        "ticker": "Aflac",
+        "Alt_Symbol": null
+    },
+    "A": {
+        "ticker": "Agilent Technologies",
+        "Alt_Symbol": null
+    },
+    "APD": {
+        "ticker": "Air Products and Chemicals",
+        "Alt_Symbol": null
+    },
+    "ABNB": {
+        "ticker": "Airbnb",
+        "Alt_Symbol": null
+    },
+    "AKAM": {
+        "ticker": "Akamai",
+        "Alt_Symbol": null
+    },
+    "ALB": {
+        "ticker": "Albemarle Corporation",
+        "Alt_Symbol": null
+    },
+    "ARE": {
+        "ticker": "Alexandria Real Estate Equities",
+        "Alt_Symbol": null
+    },
+    "ALGN": {
+        "ticker": "Align Technology",
+        "Alt_Symbol": null
+    },
+    "ALLE": {
+        "ticker": "Allegion",
+        "Alt_Symbol": null
+    },
+    "LNT": {
+        "ticker": "Alliant Energy",
+        "Alt_Symbol": null
+    },
+    "ALL": {
+        "ticker": "Allstate",
+        "Alt_Symbol": null
+    },
+    "GOOGL": {
+        "ticker": "Alphabet Inc. (Class A)",
+        "Alt_Symbol": null
+    },
+    "GOOG": {
+        "ticker": "Alphabet Inc. (Class C)",
+        "Alt_Symbol": null
+    },
+    "MO": {
+        "ticker": "Altria",
+        "Alt_Symbol": null
+    },
+    "AMZN": {
+        "ticker": "Amazon",
+        "Alt_Symbol": null
+    },
+    "AMCR": {
+        "ticker": "Amcor",
+        "Alt_Symbol": null
+    },
+    "AEE": {
+        "ticker": "Ameren",
+        "Alt_Symbol": null
+    },
+    "AAL": {
+        "ticker": "American Airlines Group",
+        "Alt_Symbol": null
+    },
+    "AEP": {
+        "ticker": "American Electric Power",
+        "Alt_Symbol": null
+    },
+    "AXP": {
+        "ticker": "American Express",
+        "Alt_Symbol": null
+    },
+    "AIG": {
+        "ticker": "American International Group",
+        "Alt_Symbol": null
+    },
+    "AMT": {
+        "ticker": "American Tower",
+        "Alt_Symbol": null
+    },
+    "AWK": {
+        "ticker": "American Water Works",
+        "Alt_Symbol": null
+    },
+    "AMP": {
+        "ticker": "Ameriprise Financial",
+        "Alt_Symbol": null
+    },
+    "AME": {
+        "ticker": "Ametek",
+        "Alt_Symbol": null
+    },
+    "AMGN": {
+        "ticker": "Amgen",
+        "Alt_Symbol": null
+    },
+    "APH": {
+        "ticker": "Amphenol",
+        "Alt_Symbol": null
+    },
+    "ADI": {
+        "ticker": "Analog Devices",
+        "Alt_Symbol": null
+    },
+    "ANSS": {
+        "ticker": "Ansys",
+        "Alt_Symbol": null
+    },
+    "AON": {
+        "ticker": "Aon",
+        "Alt_Symbol": null
+    },
+    "APA": {
+        "ticker": "APA Corporation",
+        "Alt_Symbol": null
+    },
+    "AAPL": {
+        "ticker": "Apple Inc.",
+        "Alt_Symbol": null
+    },
+    "AMAT": {
+        "ticker": "Applied Materials",
+        "Alt_Symbol": null
+    },
+    "APTV": {
+        "ticker": "Aptiv",
+        "Alt_Symbol": null
+    },
+    "ACGL": {
+        "ticker": "Arch Capital Group",
+        "Alt_Symbol": null
+    },
+    "ADM": {
+        "ticker": "Archer-Daniels-Midland",
+        "Alt_Symbol": null
+    },
+    "ANET": {
+        "ticker": "Arista Networks",
+        "Alt_Symbol": null
+    },
+    "AJG": {
+        "ticker": "Arthur J. Gallagher & Co.",
+        "Alt_Symbol": null
+    },
+    "AIZ": {
+        "ticker": "Assurant",
+        "Alt_Symbol": null
+    },
+    "T": {
+        "ticker": "AT&T",
+        "Alt_Symbol": null
+    },
+    "ATO": {
+        "ticker": "Atmos Energy",
+        "Alt_Symbol": null
+    },
+    "ADSK": {
+        "ticker": "Autodesk",
+        "Alt_Symbol": null
+    },
+    "ADP": {
+        "ticker": "Automated Data Processing",
+        "Alt_Symbol": null
+    },
+    "AZO": {
+        "ticker": "AutoZone",
+        "Alt_Symbol": null
+    },
+    "AVB": {
+        "ticker": "AvalonBay Communities",
+        "Alt_Symbol": null
+    },
+    "AVY": {
+        "ticker": "Avery Dennison",
+        "Alt_Symbol": null
+    },
+    "AXON": {
+        "ticker": "Axon Enterprise",
+        "Alt_Symbol": null
+    },
+    "BKR": {
+        "ticker": "Baker Hughes",
+        "Alt_Symbol": null
+    },
+    "BALL": {
+        "ticker": "Ball Corporation",
+        "Alt_Symbol": null
+    },
+    "BAC": {
+        "ticker": "Bank of America",
+        "Alt_Symbol": null
+    },
+    "BK": {
+        "ticker": "Bank of New York Mellon",
+        "Alt_Symbol": null
+    },
+    "BBWI": {
+        "ticker": "Bath & Body Works, Inc.",
+        "Alt_Symbol": null
+    },
+    "BAX": {
+        "ticker": "Baxter International",
+        "Alt_Symbol": null
+    },
+    "BDX": {
+        "ticker": "Becton Dickinson",
+        "Alt_Symbol": null
+    },
+    "BRK.B": {
+        "ticker": "Berkshire Hathaway",
+        "Alt_Symbol": "BRK-B"
+    },
+    "BBY": {
+        "ticker": "Best Buy",
+        "Alt_Symbol": null
+    },
+    "BIO": {
+        "ticker": "Bio-Rad",
+        "Alt_Symbol": null
+    },
+    "TECH": {
+        "ticker": "Bio-Techne",
+        "Alt_Symbol": null
+    },
+    "BIIB": {
+        "ticker": "Biogen",
+        "Alt_Symbol": null
+    },
+    "BLK": {
+        "ticker": "BlackRock",
+        "Alt_Symbol": null
+    },
+    "BX": {
+        "ticker": "Blackstone",
+        "Alt_Symbol": null
+    },
+    "BA": {
+        "ticker": "Boeing",
+        "Alt_Symbol": null
+    },
+    "BKNG": {
+        "ticker": "Booking Holdings",
+        "Alt_Symbol": null
+    },
+    "BWA": {
+        "ticker": "BorgWarner",
+        "Alt_Symbol": null
+    },
+    "BXP": {
+        "ticker": "Boston Properties",
+        "Alt_Symbol": null
+    },
+    "BSX": {
+        "ticker": "Boston Scientific",
+        "Alt_Symbol": null
+    },
+    "BMY": {
+        "ticker": "Bristol Myers Squibb",
+        "Alt_Symbol": null
+    },
+    "AVGO": {
+        "ticker": "Broadcom Inc.",
+        "Alt_Symbol": null
+    },
+    "BR": {
+        "ticker": "Broadridge Financial Solutions",
+        "Alt_Symbol": null
+    },
+    "BRO": {
+        "ticker": "Brown & Brown",
+        "Alt_Symbol": null
+    },
+    "BF.B": {
+        "ticker": "Brown\u2013Forman",
+        "Alt_Symbol": "BF-B"
+    },
+    "BLDR": {
+        "ticker": "Builders FirstSource",
+        "Alt_Symbol": null
+    },
+    "BG": {
+        "ticker": "Bunge Global SA",
+        "Alt_Symbol": null
+    },
+    "CDNS": {
+        "ticker": "Cadence Design Systems",
+        "Alt_Symbol": null
+    },
+    "CZR": {
+        "ticker": "Caesars Entertainment",
+        "Alt_Symbol": null
+    },
+    "CPT": {
+        "ticker": "Camden Property Trust",
+        "Alt_Symbol": null
+    },
+    "CPB": {
+        "ticker": "Campbell Soup Company",
+        "Alt_Symbol": null
+    },
+    "COF": {
+        "ticker": "Capital One",
+        "Alt_Symbol": null
+    },
+    "CAH": {
+        "ticker": "Cardinal Health",
+        "Alt_Symbol": null
+    },
+    "KMX": {
+        "ticker": "CarMax",
+        "Alt_Symbol": null
+    },
+    "CCL": {
+        "ticker": "Carnival",
+        "Alt_Symbol": null
+    },
+    "CARR": {
+        "ticker": "Carrier Global",
+        "Alt_Symbol": null
+    },
+    "CTLT": {
+        "ticker": "Catalent",
+        "Alt_Symbol": null
+    },
+    "CAT": {
+        "ticker": "Caterpillar Inc.",
+        "Alt_Symbol": null
+    },
+    "CBOE": {
+        "ticker": "Cboe Global Markets",
+        "Alt_Symbol": null
+    },
+    "CBRE": {
+        "ticker": "CBRE Group",
+        "Alt_Symbol": null
+    },
+    "CDW": {
+        "ticker": "CDW",
+        "Alt_Symbol": null
+    },
+    "CE": {
+        "ticker": "Celanese",
+        "Alt_Symbol": null
+    },
+    "COR": {
+        "ticker": "Cencora",
+        "Alt_Symbol": null
+    },
+    "CNC": {
+        "ticker": "Centene Corporation",
+        "Alt_Symbol": null
+    },
+    "CNP": {
+        "ticker": "CenterPoint Energy",
+        "Alt_Symbol": null
+    },
+    "CDAY": {
+        "ticker": "Ceridian",
+        "Alt_Symbol": null
+    },
+    "CF": {
+        "ticker": "CF Industries",
+        "Alt_Symbol": null
+    },
+    "CHRW": {
+        "ticker": "CH Robinson",
+        "Alt_Symbol": null
+    },
+    "CRL": {
+        "ticker": "Charles River Laboratories",
+        "Alt_Symbol": null
+    },
+    "SCHW": {
+        "ticker": "Charles Schwab Corporation",
+        "Alt_Symbol": null
+    },
+    "CHTR": {
+        "ticker": "Charter Communications",
+        "Alt_Symbol": null
+    },
+    "CVX": {
+        "ticker": "Chevron Corporation",
+        "Alt_Symbol": null
+    },
+    "CMG": {
+        "ticker": "Chipotle Mexican Grill",
+        "Alt_Symbol": null
+    },
+    "CB": {
+        "ticker": "Chubb Limited",
+        "Alt_Symbol": null
+    },
+    "CHD": {
+        "ticker": "Church & Dwight",
+        "Alt_Symbol": null
+    },
+    "CI": {
+        "ticker": "Cigna",
+        "Alt_Symbol": null
+    },
+    "CINF": {
+        "ticker": "Cincinnati Financial",
+        "Alt_Symbol": null
+    },
+    "CTAS": {
+        "ticker": "Cintas",
+        "Alt_Symbol": null
+    },
+    "CSCO": {
+        "ticker": "Cisco",
+        "Alt_Symbol": null
+    },
+    "C": {
+        "ticker": "Citigroup",
+        "Alt_Symbol": null
+    },
+    "CFG": {
+        "ticker": "Citizens Financial Group",
+        "Alt_Symbol": null
+    },
+    "CLX": {
+        "ticker": "Clorox",
+        "Alt_Symbol": null
+    },
+    "CME": {
+        "ticker": "CME Group",
+        "Alt_Symbol": null
+    },
+    "CMS": {
+        "ticker": "CMS Energy",
+        "Alt_Symbol": null
+    },
+    "KO": {
+        "ticker": "Coca-Cola Company (The)",
+        "Alt_Symbol": null
+    },
+    "CTSH": {
+        "ticker": "Cognizant",
+        "Alt_Symbol": null
+    },
+    "CL": {
+        "ticker": "Colgate-Palmolive",
+        "Alt_Symbol": null
+    },
+    "CMCSA": {
+        "ticker": "Comcast",
+        "Alt_Symbol": null
+    },
+    "CMA": {
+        "ticker": "Comerica",
+        "Alt_Symbol": null
+    },
+    "CAG": {
+        "ticker": "Conagra Brands",
+        "Alt_Symbol": null
+    },
+    "COP": {
+        "ticker": "ConocoPhillips",
+        "Alt_Symbol": null
+    },
+    "ED": {
+        "ticker": "Consolidated Edison",
+        "Alt_Symbol": null
+    },
+    "STZ": {
+        "ticker": "Constellation Brands",
+        "Alt_Symbol": null
+    },
+    "CEG": {
+        "ticker": "Constellation Energy",
+        "Alt_Symbol": null
+    },
+    "COO": {
+        "ticker": "CooperCompanies",
+        "Alt_Symbol": null
+    },
+    "CPRT": {
+        "ticker": "Copart",
+        "Alt_Symbol": null
+    },
+    "GLW": {
+        "ticker": "Corning Inc.",
+        "Alt_Symbol": null
+    },
+    "CTVA": {
+        "ticker": "Corteva",
+        "Alt_Symbol": null
+    },
+    "CSGP": {
+        "ticker": "CoStar Group",
+        "Alt_Symbol": null
+    },
+    "COST": {
+        "ticker": "Costco",
+        "Alt_Symbol": null
+    },
+    "CTRA": {
+        "ticker": "Coterra",
+        "Alt_Symbol": null
+    },
+    "CCI": {
+        "ticker": "Crown Castle",
+        "Alt_Symbol": null
+    },
+    "CSX": {
+        "ticker": "CSX",
+        "Alt_Symbol": null
+    },
+    "CMI": {
+        "ticker": "Cummins",
+        "Alt_Symbol": null
+    },
+    "CVS": {
+        "ticker": "CVS Health",
+        "Alt_Symbol": null
+    },
+    "DHR": {
+        "ticker": "Danaher Corporation",
+        "Alt_Symbol": null
+    },
+    "DRI": {
+        "ticker": "Darden Restaurants",
+        "Alt_Symbol": null
+    },
+    "DVA": {
+        "ticker": "DaVita Inc.",
+        "Alt_Symbol": null
+    },
+    "DE": {
+        "ticker": "John Deere",
+        "Alt_Symbol": null
+    },
+    "DAL": {
+        "ticker": "Delta Air Lines",
+        "Alt_Symbol": null
+    },
+    "XRAY": {
+        "ticker": "Dentsply Sirona",
+        "Alt_Symbol": null
+    },
+    "DVN": {
+        "ticker": "Devon Energy",
+        "Alt_Symbol": null
+    },
+    "DXCM": {
+        "ticker": "Dexcom",
+        "Alt_Symbol": null
+    },
+    "FANG": {
+        "ticker": "Diamondback Energy",
+        "Alt_Symbol": null
+    },
+    "DLR": {
+        "ticker": "Digital Realty",
+        "Alt_Symbol": null
+    },
+    "DFS": {
+        "ticker": "Discover Financial",
+        "Alt_Symbol": null
+    },
+    "DG": {
+        "ticker": "Dollar General",
+        "Alt_Symbol": null
+    },
+    "DLTR": {
+        "ticker": "Dollar Tree",
+        "Alt_Symbol": null
+    },
+    "D": {
+        "ticker": "Dominion Energy",
+        "Alt_Symbol": null
+    },
+    "DPZ": {
+        "ticker": "Domino's",
+        "Alt_Symbol": null
+    },
+    "DOV": {
+        "ticker": "Dover Corporation",
+        "Alt_Symbol": null
+    },
+    "DOW": {
+        "ticker": "Dow Inc.",
+        "Alt_Symbol": null
+    },
+    "DHI": {
+        "ticker": "DR Horton",
+        "Alt_Symbol": null
+    },
+    "DTE": {
+        "ticker": "DTE Energy",
+        "Alt_Symbol": null
+    },
+    "DUK": {
+        "ticker": "Duke Energy",
+        "Alt_Symbol": null
+    },
+    "DD": {
+        "ticker": "DuPont",
+        "Alt_Symbol": null
+    },
+    "EMN": {
+        "ticker": "Eastman Chemical Company",
+        "Alt_Symbol": null
+    },
+    "ETN": {
+        "ticker": "Eaton Corporation",
+        "Alt_Symbol": null
+    },
+    "EBAY": {
+        "ticker": "eBay",
+        "Alt_Symbol": null
+    },
+    "ECL": {
+        "ticker": "Ecolab",
+        "Alt_Symbol": null
+    },
+    "EIX": {
+        "ticker": "Edison International",
+        "Alt_Symbol": null
+    },
+    "EW": {
+        "ticker": "Edwards Lifesciences",
+        "Alt_Symbol": null
+    },
+    "EA": {
+        "ticker": "Electronic Arts",
+        "Alt_Symbol": null
+    },
+    "ELV": {
+        "ticker": "Elevance Health",
+        "Alt_Symbol": null
+    },
+    "LLY": {
+        "ticker": "Eli Lilly and Company",
+        "Alt_Symbol": null
+    },
+    "EMR": {
+        "ticker": "Emerson Electric",
+        "Alt_Symbol": null
+    },
+    "ENPH": {
+        "ticker": "Enphase",
+        "Alt_Symbol": null
+    },
+    "ETR": {
+        "ticker": "Entergy",
+        "Alt_Symbol": null
+    },
+    "EOG": {
+        "ticker": "EOG Resources",
+        "Alt_Symbol": null
+    },
+    "EPAM": {
+        "ticker": "EPAM Systems",
+        "Alt_Symbol": null
+    },
+    "EQT": {
+        "ticker": "EQT",
+        "Alt_Symbol": null
+    },
+    "EFX": {
+        "ticker": "Equifax",
+        "Alt_Symbol": null
+    },
+    "EQIX": {
+        "ticker": "Equinix",
+        "Alt_Symbol": null
+    },
+    "EQR": {
+        "ticker": "Equity Residential",
+        "Alt_Symbol": null
+    },
+    "ESS": {
+        "ticker": "Essex Property Trust",
+        "Alt_Symbol": null
+    },
+    "EL": {
+        "ticker": "Est\u00e9e Lauder Companies (The)",
+        "Alt_Symbol": null
+    },
+    "ETSY": {
+        "ticker": "Etsy",
+        "Alt_Symbol": null
+    },
+    "EG": {
+        "ticker": "Everest Re",
+        "Alt_Symbol": null
+    },
+    "EVRG": {
+        "ticker": "Evergy",
+        "Alt_Symbol": null
+    },
+    "ES": {
+        "ticker": "Eversource",
+        "Alt_Symbol": null
+    },
+    "EXC": {
+        "ticker": "Exelon",
+        "Alt_Symbol": null
+    },
+    "EXPE": {
+        "ticker": "Expedia Group",
+        "Alt_Symbol": null
+    },
+    "EXPD": {
+        "ticker": "Expeditors International",
+        "Alt_Symbol": null
+    },
+    "EXR": {
+        "ticker": "Extra Space Storage",
+        "Alt_Symbol": null
+    },
+    "XOM": {
+        "ticker": "ExxonMobil",
+        "Alt_Symbol": null
+    },
+    "FFIV": {
+        "ticker": "F5, Inc.",
+        "Alt_Symbol": null
+    },
+    "FDS": {
+        "ticker": "FactSet",
+        "Alt_Symbol": null
+    },
+    "FICO": {
+        "ticker": "Fair Isaac",
+        "Alt_Symbol": null
+    },
+    "FAST": {
+        "ticker": "Fastenal",
+        "Alt_Symbol": null
+    },
+    "FRT": {
+        "ticker": "Federal Realty",
+        "Alt_Symbol": null
+    },
+    "FDX": {
+        "ticker": "FedEx",
+        "Alt_Symbol": null
+    },
+    "FIS": {
+        "ticker": "Fidelity National Information Services",
+        "Alt_Symbol": null
+    },
+    "FITB": {
+        "ticker": "Fifth Third Bank",
+        "Alt_Symbol": null
+    },
+    "FSLR": {
+        "ticker": "First Solar",
+        "Alt_Symbol": null
+    },
+    "FE": {
+        "ticker": "FirstEnergy",
+        "Alt_Symbol": null
+    },
+    "FI": {
+        "ticker": "Fiserv",
+        "Alt_Symbol": null
+    },
+    "FLT": {
+        "ticker": "Fleetcor",
+        "Alt_Symbol": null
+    },
+    "FMC": {
+        "ticker": "FMC Corporation",
+        "Alt_Symbol": null
+    },
+    "F": {
+        "ticker": "Ford Motor Company",
+        "Alt_Symbol": null
+    },
+    "FTNT": {
+        "ticker": "Fortinet",
+        "Alt_Symbol": null
+    },
+    "FTV": {
+        "ticker": "Fortive",
+        "Alt_Symbol": null
+    },
+    "FOXA": {
+        "ticker": "Fox Corporation (Class A)",
+        "Alt_Symbol": null
+    },
+    "FOX": {
+        "ticker": "Fox Corporation (Class B)",
+        "Alt_Symbol": null
+    },
+    "BEN": {
+        "ticker": "Franklin Templeton",
+        "Alt_Symbol": null
+    },
+    "FCX": {
+        "ticker": "Freeport-McMoRan",
+        "Alt_Symbol": null
+    },
+    "GRMN": {
+        "ticker": "Garmin",
+        "Alt_Symbol": null
+    },
+    "IT": {
+        "ticker": "Gartner",
+        "Alt_Symbol": null
+    },
+    "GEHC": {
+        "ticker": "GE HealthCare",
+        "Alt_Symbol": null
+    },
+    "GEN": {
+        "ticker": "Gen Digital",
+        "Alt_Symbol": null
+    },
+    "GNRC": {
+        "ticker": "Generac",
+        "Alt_Symbol": null
+    },
+    "GD": {
+        "ticker": "General Dynamics",
+        "Alt_Symbol": null
+    },
+    "GE": {
+        "ticker": "General Electric",
+        "Alt_Symbol": null
+    },
+    "GIS": {
+        "ticker": "General Mills",
+        "Alt_Symbol": null
+    },
+    "GM": {
+        "ticker": "General Motors",
+        "Alt_Symbol": null
+    },
+    "GPC": {
+        "ticker": "Genuine Parts Company",
+        "Alt_Symbol": null
+    },
+    "GILD": {
+        "ticker": "Gilead Sciences",
+        "Alt_Symbol": null
+    },
+    "GPN": {
+        "ticker": "Global Payments",
+        "Alt_Symbol": null
+    },
+    "GL": {
+        "ticker": "Globe Life",
+        "Alt_Symbol": null
+    },
+    "GS": {
+        "ticker": "Goldman Sachs",
+        "Alt_Symbol": null
+    },
+    "HAL": {
+        "ticker": "Halliburton",
+        "Alt_Symbol": null
+    },
+    "HIG": {
+        "ticker": "Hartford (The)",
+        "Alt_Symbol": null
+    },
+    "HAS": {
+        "ticker": "Hasbro",
+        "Alt_Symbol": null
+    },
+    "HCA": {
+        "ticker": "HCA Healthcare",
+        "Alt_Symbol": null
+    },
+    "PEAK": {
+        "ticker": "Healthpeak",
+        "Alt_Symbol": null
+    },
+    "HSIC": {
+        "ticker": "Henry Schein",
+        "Alt_Symbol": null
+    },
+    "HSY": {
+        "ticker": "Hershey's",
+        "Alt_Symbol": null
+    },
+    "HES": {
+        "ticker": "Hess Corporation",
+        "Alt_Symbol": null
+    },
+    "HPE": {
+        "ticker": "Hewlett Packard Enterprise",
+        "Alt_Symbol": null
+    },
+    "HLT": {
+        "ticker": "Hilton Worldwide",
+        "Alt_Symbol": null
+    },
+    "HOLX": {
+        "ticker": "Hologic",
+        "Alt_Symbol": null
+    },
+    "HD": {
+        "ticker": "Home Depot (The)",
+        "Alt_Symbol": null
+    },
+    "HON": {
+        "ticker": "Honeywell",
+        "Alt_Symbol": null
+    },
+    "HRL": {
+        "ticker": "Hormel Foods",
+        "Alt_Symbol": null
+    },
+    "HST": {
+        "ticker": "Host Hotels & Resorts",
+        "Alt_Symbol": null
+    },
+    "HWM": {
+        "ticker": "Howmet Aerospace",
+        "Alt_Symbol": null
+    },
+    "HPQ": {
+        "ticker": "HP Inc.",
+        "Alt_Symbol": null
+    },
+    "HUBB": {
+        "ticker": "Hubbell Incorporated",
+        "Alt_Symbol": null
+    },
+    "HUM": {
+        "ticker": "Humana",
+        "Alt_Symbol": null
+    },
+    "HBAN": {
+        "ticker": "Huntington Bancshares",
+        "Alt_Symbol": null
+    },
+    "HII": {
+        "ticker": "Huntington Ingalls Industries",
+        "Alt_Symbol": null
+    },
+    "IBM": {
+        "ticker": "IBM",
+        "Alt_Symbol": null
+    },
+    "IEX": {
+        "ticker": "IDEX Corporation",
+        "Alt_Symbol": null
+    },
+    "IDXX": {
+        "ticker": "Idexx Laboratories",
+        "Alt_Symbol": null
+    },
+    "ITW": {
+        "ticker": "Illinois Tool Works",
+        "Alt_Symbol": null
+    },
+    "ILMN": {
+        "ticker": "Illumina",
+        "Alt_Symbol": null
+    },
+    "INCY": {
+        "ticker": "Incyte",
+        "Alt_Symbol": null
+    },
+    "IR": {
+        "ticker": "Ingersoll Rand",
+        "Alt_Symbol": null
+    },
+    "PODD": {
+        "ticker": "Insulet",
+        "Alt_Symbol": null
+    },
+    "INTC": {
+        "ticker": "Intel",
+        "Alt_Symbol": null
+    },
+    "ICE": {
+        "ticker": "Intercontinental Exchange",
+        "Alt_Symbol": null
+    },
+    "IFF": {
+        "ticker": "International Flavors & Fragrances",
+        "Alt_Symbol": null
+    },
+    "IP": {
+        "ticker": "International Paper",
+        "Alt_Symbol": null
+    },
+    "IPG": {
+        "ticker": "Interpublic Group of Companies (The)",
+        "Alt_Symbol": null
+    },
+    "INTU": {
+        "ticker": "Intuit",
+        "Alt_Symbol": null
+    },
+    "ISRG": {
+        "ticker": "Intuitive Surgical",
+        "Alt_Symbol": null
+    },
+    "IVZ": {
+        "ticker": "Invesco",
+        "Alt_Symbol": null
+    },
+    "INVH": {
+        "ticker": "Invitation Homes",
+        "Alt_Symbol": null
+    },
+    "IQV": {
+        "ticker": "IQVIA",
+        "Alt_Symbol": null
+    },
+    "IRM": {
+        "ticker": "Iron Mountain",
+        "Alt_Symbol": null
+    },
+    "JBHT": {
+        "ticker": "J.B. Hunt",
+        "Alt_Symbol": null
+    },
+    "JBL": {
+        "ticker": "Jabil",
+        "Alt_Symbol": null
+    },
+    "JKHY": {
+        "ticker": "Jack Henry & Associates",
+        "Alt_Symbol": null
+    },
+    "J": {
+        "ticker": "Jacobs Solutions",
+        "Alt_Symbol": null
+    },
+    "JNJ": {
+        "ticker": "Johnson & Johnson",
+        "Alt_Symbol": null
+    },
+    "JCI": {
+        "ticker": "Johnson Controls",
+        "Alt_Symbol": null
+    },
+    "JPM": {
+        "ticker": "JPMorgan Chase",
+        "Alt_Symbol": null
+    },
+    "JNPR": {
+        "ticker": "Juniper Networks",
+        "Alt_Symbol": null
+    },
+    "K": {
+        "ticker": "Kellanova",
+        "Alt_Symbol": null
+    },
+    "KVUE": {
+        "ticker": "Kenvue",
+        "Alt_Symbol": null
+    },
+    "KDP": {
+        "ticker": "Keurig Dr Pepper",
+        "Alt_Symbol": null
+    },
+    "KEY": {
+        "ticker": "KeyCorp",
+        "Alt_Symbol": null
+    },
+    "KEYS": {
+        "ticker": "Keysight",
+        "Alt_Symbol": null
+    },
+    "KMB": {
+        "ticker": "Kimberly-Clark",
+        "Alt_Symbol": null
+    },
+    "KIM": {
+        "ticker": "Kimco Realty",
+        "Alt_Symbol": null
+    },
+    "KMI": {
+        "ticker": "Kinder Morgan",
+        "Alt_Symbol": null
+    },
+    "KLAC": {
+        "ticker": "KLA Corporation",
+        "Alt_Symbol": null
+    },
+    "KHC": {
+        "ticker": "Kraft Heinz",
+        "Alt_Symbol": null
+    },
+    "KR": {
+        "ticker": "Kroger",
+        "Alt_Symbol": null
+    },
+    "LHX": {
+        "ticker": "L3Harris",
+        "Alt_Symbol": null
+    },
+    "LH": {
+        "ticker": "LabCorp",
+        "Alt_Symbol": null
+    },
+    "LRCX": {
+        "ticker": "Lam Research",
+        "Alt_Symbol": null
+    },
+    "LW": {
+        "ticker": "Lamb Weston",
+        "Alt_Symbol": null
+    },
+    "LVS": {
+        "ticker": "Las Vegas Sands",
+        "Alt_Symbol": null
+    },
+    "LDOS": {
+        "ticker": "Leidos",
+        "Alt_Symbol": null
+    },
+    "LEN": {
+        "ticker": "Lennar",
+        "Alt_Symbol": null
+    },
+    "LIN": {
+        "ticker": "Linde plc",
+        "Alt_Symbol": null
+    },
+    "LYV": {
+        "ticker": "Live Nation Entertainment",
+        "Alt_Symbol": null
+    },
+    "LKQ": {
+        "ticker": "LKQ Corporation",
+        "Alt_Symbol": null
+    },
+    "LMT": {
+        "ticker": "Lockheed Martin",
+        "Alt_Symbol": null
+    },
+    "L": {
+        "ticker": "Loews Corporation",
+        "Alt_Symbol": null
+    },
+    "LOW": {
+        "ticker": "Lowe's",
+        "Alt_Symbol": null
+    },
+    "LULU": {
+        "ticker": "Lululemon Athletica",
+        "Alt_Symbol": null
+    },
+    "LYB": {
+        "ticker": "LyondellBasell",
+        "Alt_Symbol": null
+    },
+    "MTB": {
+        "ticker": "M&T Bank",
+        "Alt_Symbol": null
+    },
+    "MRO": {
+        "ticker": "Marathon Oil",
+        "Alt_Symbol": null
+    },
+    "MPC": {
+        "ticker": "Marathon Petroleum",
+        "Alt_Symbol": null
+    },
+    "MKTX": {
+        "ticker": "MarketAxess",
+        "Alt_Symbol": null
+    },
+    "MAR": {
+        "ticker": "Marriott International",
+        "Alt_Symbol": null
+    },
+    "MMC": {
+        "ticker": "Marsh McLennan",
+        "Alt_Symbol": null
+    },
+    "MLM": {
+        "ticker": "Martin Marietta Materials",
+        "Alt_Symbol": null
+    },
+    "MAS": {
+        "ticker": "Masco",
+        "Alt_Symbol": null
+    },
+    "MA": {
+        "ticker": "Mastercard",
+        "Alt_Symbol": null
+    },
+    "MTCH": {
+        "ticker": "Match Group",
+        "Alt_Symbol": null
+    },
+    "MKC": {
+        "ticker": "McCormick & Company",
+        "Alt_Symbol": null
+    },
+    "MCD": {
+        "ticker": "McDonald's",
+        "Alt_Symbol": null
+    },
+    "MCK": {
+        "ticker": "McKesson",
+        "Alt_Symbol": null
+    },
+    "MDT": {
+        "ticker": "Medtronic",
+        "Alt_Symbol": null
+    },
+    "MRK": {
+        "ticker": "Merck & Co.",
+        "Alt_Symbol": null
+    },
+    "META": {
+        "ticker": "Meta Platforms",
+        "Alt_Symbol": null
+    },
+    "MET": {
+        "ticker": "MetLife",
+        "Alt_Symbol": null
+    },
+    "MTD": {
+        "ticker": "Mettler Toledo",
+        "Alt_Symbol": null
+    },
+    "MGM": {
+        "ticker": "MGM Resorts",
+        "Alt_Symbol": null
+    },
+    "MCHP": {
+        "ticker": "Microchip Technology",
+        "Alt_Symbol": null
+    },
+    "MU": {
+        "ticker": "Micron Technology",
+        "Alt_Symbol": null
+    },
+    "MSFT": {
+        "ticker": "Microsoft",
+        "Alt_Symbol": null
+    },
+    "MAA": {
+        "ticker": "Mid-America Apartment Communities",
+        "Alt_Symbol": null
+    },
+    "MRNA": {
+        "ticker": "Moderna",
+        "Alt_Symbol": null
+    },
+    "MHK": {
+        "ticker": "Mohawk Industries",
+        "Alt_Symbol": null
+    },
+    "MOH": {
+        "ticker": "Molina Healthcare",
+        "Alt_Symbol": null
+    },
+    "TAP": {
+        "ticker": "Molson Coors Beverage Company",
+        "Alt_Symbol": null
+    },
+    "MDLZ": {
+        "ticker": "Mondelez International",
+        "Alt_Symbol": null
+    },
+    "MPWR": {
+        "ticker": "Monolithic Power Systems",
+        "Alt_Symbol": null
+    },
+    "MNST": {
+        "ticker": "Monster Beverage",
+        "Alt_Symbol": null
+    },
+    "MCO": {
+        "ticker": "Moody's Corporation",
+        "Alt_Symbol": null
+    },
+    "MS": {
+        "ticker": "Morgan Stanley",
+        "Alt_Symbol": null
+    },
+    "MOS": {
+        "ticker": "Mosaic Company (The)",
+        "Alt_Symbol": null
+    },
+    "MSI": {
+        "ticker": "Motorola Solutions",
+        "Alt_Symbol": null
+    },
+    "MSCI": {
+        "ticker": "MSCI",
+        "Alt_Symbol": null
+    },
+    "NDAQ": {
+        "ticker": "Nasdaq, Inc.",
+        "Alt_Symbol": null
+    },
+    "NTAP": {
+        "ticker": "NetApp",
+        "Alt_Symbol": null
+    },
+    "NFLX": {
+        "ticker": "Netflix",
+        "Alt_Symbol": null
+    },
+    "NEM": {
+        "ticker": "Newmont",
+        "Alt_Symbol": null
+    },
+    "NWSA": {
+        "ticker": "News Corp (Class A)",
+        "Alt_Symbol": null
+    },
+    "NWS": {
+        "ticker": "News Corp (Class B)",
+        "Alt_Symbol": null
+    },
+    "NEE": {
+        "ticker": "NextEra Energy",
+        "Alt_Symbol": null
+    },
+    "NKE": {
+        "ticker": "Nike, Inc.",
+        "Alt_Symbol": null
+    },
+    "NI": {
+        "ticker": "NiSource",
+        "Alt_Symbol": null
+    },
+    "NDSN": {
+        "ticker": "Nordson Corporation",
+        "Alt_Symbol": null
+    },
+    "NSC": {
+        "ticker": "Norfolk Southern Railway",
+        "Alt_Symbol": null
+    },
+    "NTRS": {
+        "ticker": "Northern Trust",
+        "Alt_Symbol": null
+    },
+    "NOC": {
+        "ticker": "Northrop Grumman",
+        "Alt_Symbol": null
+    },
+    "NCLH": {
+        "ticker": "Norwegian Cruise Line Holdings",
+        "Alt_Symbol": null
+    },
+    "NRG": {
+        "ticker": "NRG Energy",
+        "Alt_Symbol": null
+    },
+    "NUE": {
+        "ticker": "Nucor",
+        "Alt_Symbol": null
+    },
+    "NVDA": {
+        "ticker": "Nvidia",
+        "Alt_Symbol": null
+    },
+    "NVR": {
+        "ticker": "NVR, Inc.",
+        "Alt_Symbol": null
+    },
+    "NXPI": {
+        "ticker": "NXP Semiconductors",
+        "Alt_Symbol": null
+    },
+    "ORLY": {
+        "ticker": "O'Reilly Auto Parts",
+        "Alt_Symbol": null
+    },
+    "OXY": {
+        "ticker": "Occidental Petroleum",
+        "Alt_Symbol": null
+    },
+    "ODFL": {
+        "ticker": "Old Dominion",
+        "Alt_Symbol": null
+    },
+    "OMC": {
+        "ticker": "Omnicom Group",
+        "Alt_Symbol": null
+    },
+    "ON": {
+        "ticker": "ON Semiconductor",
+        "Alt_Symbol": null
+    },
+    "OKE": {
+        "ticker": "ONEOK",
+        "Alt_Symbol": null
+    },
+    "ORCL": {
+        "ticker": "Oracle Corporation",
+        "Alt_Symbol": null
+    },
+    "OTIS": {
+        "ticker": "Otis Worldwide",
+        "Alt_Symbol": null
+    },
+    "PCAR": {
+        "ticker": "Paccar",
+        "Alt_Symbol": null
+    },
+    "PKG": {
+        "ticker": "Packaging Corporation of America",
+        "Alt_Symbol": null
+    },
+    "PANW": {
+        "ticker": "Palo Alto Networks",
+        "Alt_Symbol": null
+    },
+    "PARA": {
+        "ticker": "Paramount Global",
+        "Alt_Symbol": null
+    },
+    "PH": {
+        "ticker": "Parker Hannifin",
+        "Alt_Symbol": null
+    },
+    "PAYX": {
+        "ticker": "Paychex",
+        "Alt_Symbol": null
+    },
+    "PAYC": {
+        "ticker": "Paycom",
+        "Alt_Symbol": null
+    },
+    "PYPL": {
+        "ticker": "PayPal",
+        "Alt_Symbol": null
+    },
+    "PNR": {
+        "ticker": "Pentair",
+        "Alt_Symbol": null
+    },
+    "PEP": {
+        "ticker": "PepsiCo",
+        "Alt_Symbol": null
+    },
+    "PFE": {
+        "ticker": "Pfizer",
+        "Alt_Symbol": null
+    },
+    "PCG": {
+        "ticker": "PG&E Corporation",
+        "Alt_Symbol": null
+    },
+    "PM": {
+        "ticker": "Philip Morris International",
+        "Alt_Symbol": null
+    },
+    "PSX": {
+        "ticker": "Phillips 66",
+        "Alt_Symbol": null
+    },
+    "PNW": {
+        "ticker": "Pinnacle West",
+        "Alt_Symbol": null
+    },
+    "PXD": {
+        "ticker": "Pioneer Natural Resources",
+        "Alt_Symbol": null
+    },
+    "PNC": {
+        "ticker": "PNC Financial Services",
+        "Alt_Symbol": null
+    },
+    "POOL": {
+        "ticker": "Pool Corporation",
+        "Alt_Symbol": null
+    },
+    "PPG": {
+        "ticker": "PPG Industries",
+        "Alt_Symbol": null
+    },
+    "PPL": {
+        "ticker": "PPL Corporation",
+        "Alt_Symbol": null
+    },
+    "PFG": {
+        "ticker": "Principal Financial Group",
+        "Alt_Symbol": null
+    },
+    "PG": {
+        "ticker": "Procter & Gamble",
+        "Alt_Symbol": null
+    },
+    "PGR": {
+        "ticker": "Progressive Corporation",
+        "Alt_Symbol": null
+    },
+    "PLD": {
+        "ticker": "Prologis",
+        "Alt_Symbol": null
+    },
+    "PRU": {
+        "ticker": "Prudential Financial",
+        "Alt_Symbol": null
+    },
+    "PEG": {
+        "ticker": "Public Service Enterprise Group",
+        "Alt_Symbol": null
+    },
+    "PTC": {
+        "ticker": "PTC",
+        "Alt_Symbol": null
+    },
+    "PSA": {
+        "ticker": "Public Storage",
+        "Alt_Symbol": null
+    },
+    "PHM": {
+        "ticker": "PulteGroup",
+        "Alt_Symbol": null
+    },
+    "QRVO": {
+        "ticker": "Qorvo",
+        "Alt_Symbol": null
+    },
+    "PWR": {
+        "ticker": "Quanta Services",
+        "Alt_Symbol": null
+    },
+    "QCOM": {
+        "ticker": "Qualcomm",
+        "Alt_Symbol": null
+    },
+    "DGX": {
+        "ticker": "Quest Diagnostics",
+        "Alt_Symbol": null
+    },
+    "RL": {
+        "ticker": "Ralph Lauren Corporation",
+        "Alt_Symbol": null
+    },
+    "RJF": {
+        "ticker": "Raymond James",
+        "Alt_Symbol": null
+    },
+    "RTX": {
+        "ticker": "RTX Corporation",
+        "Alt_Symbol": null
+    },
+    "O": {
+        "ticker": "Realty Income",
+        "Alt_Symbol": null
+    },
+    "REG": {
+        "ticker": "Regency Centers",
+        "Alt_Symbol": null
+    },
+    "REGN": {
+        "ticker": "Regeneron",
+        "Alt_Symbol": null
+    },
+    "RF": {
+        "ticker": "Regions Financial Corporation",
+        "Alt_Symbol": null
+    },
+    "RSG": {
+        "ticker": "Republic Services",
+        "Alt_Symbol": null
+    },
+    "RMD": {
+        "ticker": "ResMed",
+        "Alt_Symbol": null
+    },
+    "RVTY": {
+        "ticker": "Revvity (Previously PerkinElmer)",
+        "Alt_Symbol": null
+    },
+    "RHI": {
+        "ticker": "Robert Half",
+        "Alt_Symbol": null
+    },
+    "ROK": {
+        "ticker": "Rockwell Automation",
+        "Alt_Symbol": null
+    },
+    "ROL": {
+        "ticker": "Rollins, Inc.",
+        "Alt_Symbol": null
+    },
+    "ROP": {
+        "ticker": "Roper Technologies",
+        "Alt_Symbol": null
+    },
+    "ROST": {
+        "ticker": "Ross Stores",
+        "Alt_Symbol": null
+    },
+    "RCL": {
+        "ticker": "Royal Caribbean Group",
+        "Alt_Symbol": null
+    },
+    "SPGI": {
+        "ticker": "S&P Global",
+        "Alt_Symbol": null
+    },
+    "CRM": {
+        "ticker": "Salesforce",
+        "Alt_Symbol": null
+    },
+    "SBAC": {
+        "ticker": "SBA Communications",
+        "Alt_Symbol": null
+    },
+    "SLB": {
+        "ticker": "Schlumberger",
+        "Alt_Symbol": null
+    },
+    "STX": {
+        "ticker": "Seagate Technology",
+        "Alt_Symbol": null
+    },
+    "SRE": {
+        "ticker": "Sempra Energy",
+        "Alt_Symbol": null
+    },
+    "NOW": {
+        "ticker": "ServiceNow",
+        "Alt_Symbol": null
+    },
+    "SHW": {
+        "ticker": "Sherwin-Williams",
+        "Alt_Symbol": null
+    },
+    "SPG": {
+        "ticker": "Simon Property Group",
+        "Alt_Symbol": null
+    },
+    "SWKS": {
+        "ticker": "Skyworks Solutions",
+        "Alt_Symbol": null
+    },
+    "SJM": {
+        "ticker": "J.M. Smucker Company (The)",
+        "Alt_Symbol": null
+    },
+    "SNA": {
+        "ticker": "Snap-on",
+        "Alt_Symbol": null
+    },
+    "SO": {
+        "ticker": "Southern Company",
+        "Alt_Symbol": null
+    },
+    "LUV": {
+        "ticker": "Southwest Airlines",
+        "Alt_Symbol": null
+    },
+    "SWK": {
+        "ticker": "Stanley Black & Decker",
+        "Alt_Symbol": null
+    },
+    "SBUX": {
+        "ticker": "Starbucks",
+        "Alt_Symbol": null
+    },
+    "STT": {
+        "ticker": "State Street Corporation",
+        "Alt_Symbol": null
+    },
+    "STLD": {
+        "ticker": "Steel Dynamics",
+        "Alt_Symbol": null
+    },
+    "STE": {
+        "ticker": "Steris",
+        "Alt_Symbol": null
+    },
+    "SYK": {
+        "ticker": "Stryker Corporation",
+        "Alt_Symbol": null
+    },
+    "SYF": {
+        "ticker": "Synchrony Financial",
+        "Alt_Symbol": null
+    },
+    "SNPS": {
+        "ticker": "Synopsys",
+        "Alt_Symbol": null
+    },
+    "SYY": {
+        "ticker": "Sysco",
+        "Alt_Symbol": null
+    },
+    "TMUS": {
+        "ticker": "T-Mobile US",
+        "Alt_Symbol": null
+    },
+    "TROW": {
+        "ticker": "T. Rowe Price",
+        "Alt_Symbol": null
+    },
+    "TTWO": {
+        "ticker": "Take-Two Interactive",
+        "Alt_Symbol": null
+    },
+    "TPR": {
+        "ticker": "Tapestry, Inc.",
+        "Alt_Symbol": null
+    },
+    "TRGP": {
+        "ticker": "Targa Resources",
+        "Alt_Symbol": null
+    },
+    "TGT": {
+        "ticker": "Target Corporation",
+        "Alt_Symbol": null
+    },
+    "TEL": {
+        "ticker": "TE Connectivity",
+        "Alt_Symbol": null
+    },
+    "TDY": {
+        "ticker": "Teledyne Technologies",
+        "Alt_Symbol": null
+    },
+    "TFX": {
+        "ticker": "Teleflex",
+        "Alt_Symbol": null
+    },
+    "TER": {
+        "ticker": "Teradyne",
+        "Alt_Symbol": null
+    },
+    "TSLA": {
+        "ticker": "Tesla, Inc.",
+        "Alt_Symbol": null
+    },
+    "TXN": {
+        "ticker": "Texas Instruments",
+        "Alt_Symbol": null
+    },
+    "TXT": {
+        "ticker": "Textron",
+        "Alt_Symbol": null
+    },
+    "TMO": {
+        "ticker": "Thermo Fisher Scientific",
+        "Alt_Symbol": null
+    },
+    "TJX": {
+        "ticker": "TJX Companies",
+        "Alt_Symbol": null
+    },
+    "TSCO": {
+        "ticker": "Tractor Supply",
+        "Alt_Symbol": null
+    },
+    "TT": {
+        "ticker": "Trane Technologies",
+        "Alt_Symbol": null
+    },
+    "TDG": {
+        "ticker": "TransDigm Group",
+        "Alt_Symbol": null
+    },
+    "TRV": {
+        "ticker": "Travelers Companies (The)",
+        "Alt_Symbol": null
+    },
+    "TRMB": {
+        "ticker": "Trimble Inc.",
+        "Alt_Symbol": null
+    },
+    "TFC": {
+        "ticker": "Truist",
+        "Alt_Symbol": null
+    },
+    "TYL": {
+        "ticker": "Tyler Technologies",
+        "Alt_Symbol": null
+    },
+    "TSN": {
+        "ticker": "Tyson Foods",
+        "Alt_Symbol": null
+    },
+    "USB": {
+        "ticker": "U.S. Bank",
+        "Alt_Symbol": null
+    },
+    "UBER": {
+        "ticker": "Uber",
+        "Alt_Symbol": null
+    },
+    "UDR": {
+        "ticker": "UDR, Inc.",
+        "Alt_Symbol": null
+    },
+    "ULTA": {
+        "ticker": "Ulta Beauty",
+        "Alt_Symbol": null
+    },
+    "UNP": {
+        "ticker": "Union Pacific Corporation",
+        "Alt_Symbol": null
+    },
+    "UAL": {
+        "ticker": "United Airlines Holdings",
+        "Alt_Symbol": null
+    },
+    "UPS": {
+        "ticker": "United Parcel Service",
+        "Alt_Symbol": null
+    },
+    "URI": {
+        "ticker": "United Rentals",
+        "Alt_Symbol": null
+    },
+    "UNH": {
+        "ticker": "UnitedHealth Group",
+        "Alt_Symbol": null
+    },
+    "UHS": {
+        "ticker": "Universal Health Services",
+        "Alt_Symbol": null
+    },
+    "VLO": {
+        "ticker": "Valero Energy",
+        "Alt_Symbol": null
+    },
+    "VTR": {
+        "ticker": "Ventas",
+        "Alt_Symbol": null
+    },
+    "VLTO": {
+        "ticker": "Veralto",
+        "Alt_Symbol": null
+    },
+    "VRSN": {
+        "ticker": "Verisign",
+        "Alt_Symbol": null
+    },
+    "VRSK": {
+        "ticker": "Verisk",
+        "Alt_Symbol": null
+    },
+    "VZ": {
+        "ticker": "Verizon",
+        "Alt_Symbol": null
+    },
+    "VRTX": {
+        "ticker": "Vertex Pharmaceuticals",
+        "Alt_Symbol": null
+    },
+    "VFC": {
+        "ticker": "VF Corporation",
+        "Alt_Symbol": null
+    },
+    "VTRS": {
+        "ticker": "Viatris",
+        "Alt_Symbol": null
+    },
+    "VICI": {
+        "ticker": "Vici Properties",
+        "Alt_Symbol": null
+    },
+    "V": {
+        "ticker": "Visa Inc.",
+        "Alt_Symbol": null
+    },
+    "VMC": {
+        "ticker": "Vulcan Materials Company",
+        "Alt_Symbol": null
+    },
+    "WRB": {
+        "ticker": "Berkley",
+        "Alt_Symbol": null
+    },
+    "WAB": {
+        "ticker": "Wabtec",
+        "Alt_Symbol": null
+    },
+    "WBA": {
+        "ticker": "Walgreens Boots Alliance",
+        "Alt_Symbol": null
+    },
+    "WMT": {
+        "ticker": "Walmart",
+        "Alt_Symbol": null
+    },
+    "DIS": {
+        "ticker": "Walt Disney",
+        "Alt_Symbol": null
+    },
+    "WBD": {
+        "ticker": "Warner Bros. Discovery",
+        "Alt_Symbol": null
+    },
+    "WM": {
+        "ticker": "Waste Management",
+        "Alt_Symbol": null
+    },
+    "WAT": {
+        "ticker": "Waters Corporation",
+        "Alt_Symbol": null
+    },
+    "WEC": {
+        "ticker": "WEC Energy Group",
+        "Alt_Symbol": null
+    },
+    "WFC": {
+        "ticker": "Wells Fargo",
+        "Alt_Symbol": null
+    },
+    "WELL": {
+        "ticker": "Welltower",
+        "Alt_Symbol": null
+    },
+    "WST": {
+        "ticker": "West Pharmaceutical Services",
+        "Alt_Symbol": null
+    },
+    "WDC": {
+        "ticker": "Western Digital",
+        "Alt_Symbol": null
+    },
+    "WRK": {
+        "ticker": "WestRock",
+        "Alt_Symbol": null
+    },
+    "WY": {
+        "ticker": "Weyerhaeuser",
+        "Alt_Symbol": null
+    },
+    "WHR": {
+        "ticker": "Whirlpool Corporation",
+        "Alt_Symbol": null
+    },
+    "WMB": {
+        "ticker": "Williams Companies",
+        "Alt_Symbol": null
+    },
+    "WTW": {
+        "ticker": "Willis Towers Watson",
+        "Alt_Symbol": null
+    },
+    "GWW": {
+        "ticker": "W. W. Grainger",
+        "Alt_Symbol": null
+    },
+    "WYNN": {
+        "ticker": "Wynn Resorts",
+        "Alt_Symbol": null
+    },
+    "XEL": {
+        "ticker": "Xcel Energy",
+        "Alt_Symbol": null
+    },
+    "XYL": {
+        "ticker": "Xylem Inc.",
+        "Alt_Symbol": null
+    },
+    "YUM": {
+        "ticker": "Yum! Brands",
+        "Alt_Symbol": null
+    },
+    "ZBRA": {
+        "ticker": "Zebra Technologies",
+        "Alt_Symbol": null
+    },
+    "ZBH": {
+        "ticker": "Zimmer Biomet",
+        "Alt_Symbol": null
+    },
+    "ZION": {
+        "ticker": "Zions Bancorporation",
+        "Alt_Symbol": null
+    },
+    "ZTS": {
+        "ticker": "Zoetis",
+        "Alt_Symbol": null
+    }
+}

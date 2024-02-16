@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+
+{% block title%} welcome |{%endblock%}
+
+{% block content %}
+
+<div class="flex h-screen  justify-center items-center ">
+    <div class="text-center ">
+        <h2 class="text-7xl font-bold mb-4">Welcome</h2>
+        <p class="text-3xl "> Navigate to S&P500 stock price page by clicking 👉 <a class="no-underline hover:underline"
+                href="{% url 'stock_table' %}">here </a>
+        </p>
+
+    </div>
+</div>
+
+{% endblock %}

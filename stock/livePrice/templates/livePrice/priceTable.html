@@ -1,0 +1,274 @@
+{% extends './price_base.html' %}
+{% load static %}
+{% block title%} priceTable |{%endblock%}
+{%block xStyle %}
+<style></style>
+{% endblock%}
+
+
+{%block content %}
+
+<div class="h-screen mx-3.5">
+  <div class="max-w-full">
+    <header class="">
+      <h2 class="text-red-600 text-3xl">S&P500 PriceTable</h2>
+      <h3 id="fetchTime" class="text-black-200 text-2xl">
+        {{datetime}}
+      </h3>
+
+      <button class="bg-indigo-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="refreshData()">
+        refresh
+      </button>
+    </header>
+
+    <div class="flex items-center justify-center mx-auto mt-3">
+
+      <div class="w-full">
+        <table id="tbl" class="w-full table-fixed border-2 relative">
+
+          <caption class="caption-top">
+            Table: Price in USD. Based on <a target="_blank"
+              class="no-underline hover:underline font-semibold font-serif"
+              href="https://finance.yahoo.com/lookup">yahoo! finance</a>
+          </caption>
+
+          <thead class="bg-amber-300 sticky top-0">
+            <tr class="text-sm lg:text-base">
+              <th class="w-2/8 py-4 border-2 border-red-300">Symbol &#9660</th>
+              <th class="w-2/8 py-4 hidden border-2 border-red-300 lg:table-cell">Ticker &#9660
+              </th>
+
+              <th class="w-2/8 py-4 border-2 border-red-300 lg:hidden">Open|Prev &#9650
+              </th>
+
+              <th data-type="number" class="hidden py-4 border-2 border-red-300 lg:table-cell">Open_Price &#9660
+              </th>
+              <th data-type="number" class="hidden py-4 border-2 border-red-300 lg:table-cell">Prev_Price &#9660
+              </th>
+              <th data-type="number" class="w-1/8 py-4 border-2 border-red-300">Closed_Price &#9660</th>
+              <th data-type="number" class="w-1/8 py-4 border-2 border-red-300">Change &#9660</th>
+            </tr>
+          </thead>
+          <tbody id="tbl_body" class="border-">
+            <!-- insert the rows and content here -->
+
+            <!-- commented for testing websocket- start -->
+
+            {% for x in allTickers %}
+            <tr class="even:bg-gray-100 odd:bg-white">
+              <td class="text-center font-bold p-1.5 border-b-2">
+                {{x.symbol}}
+
+                <!--display with info on the same column, hide when on larger breakpoint -->
+
+                <dl class="lg:hidden">
+                  <dt class="sr-only">Ticker</dt>
+                  <dl class="text-wrap font-light text-xs">{{x.name}}</dl>
+                </dl>
+              </td>
+              <td class="text-center text-wrap p-1.5 border-b-2 w-25 hidden lg:table-cell">
+                {{x.name}}
+              </td>
+
+              <!--contain the prev and open price, hidden when large  -->
+              <td class="text-center font-bold p-1.5 border-b-2 lg:hidden">
+                <!--display with info on the same column, hide when on larger breakpoint -->
+                <dl class="lg:hidden">
+                  <dt class="font-semibold">Prev:</dt>
+                  <dl class="text-wrap font-light text-sm">
+                    {{x.prevClosePrice| floatformat:2}}
+                  </dl>
+                  <dt class="font-semibold">Open:</dt>
+                  <dl class="text-wrap font-light text-sm">
+                    {{x.openPrice|floatformat:2}}
+                  </dl>
+                </dl>
+              </td>
+
+              <!--hidden by default, large visible  -->
+
+              <td class="text-center p-1.5 border-b-2 font-semibold hidden lg:table-cell">
+                {{x.openPrice | floatformat:2}}
+              </td>
+
+              <td class="text-center p-1.5 border-b-2 font-semibold hidden lg:table-cell">
+                {{x.prevClosePrice | floatformat:2}}
+              </td>
+
+              <td class="text-center p-1.5 border-b-2 font-semibold">
+                {{x.closePrice | floatformat:2}}
+              </td>
+              <td
+                class="text-center p-1.5 border-b-2 font-extrabold {% if x.state == 'rise' %} text-green-500 {% elif x.state == 'fall' %} text-red-600 {% else %} text-black {% endif %}">
+                {{x.change | floatformat:2}}
+              </td>
+            </tr>
+
+            {% endfor %}
+            <!-- commented  for testing websocket -end -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block script %}
+
+<script src="{% static 'js/sorting.js' %}"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.10.4/dist/sweetalert2.all.min.js"></script>
+<script>
+
+
+  console.log("page refresh");
+
+  const websocketProtocol =
+    window.location.protocol === "https:" ? "wss" : "ws";
+  const wsEndpoint = `${websocketProtocol}://${window.location.host}/ws/live-price/`;
+  const socket = new WebSocket(wsEndpoint);
+
+  // New event listener to capture incoming messages
+  socket.addEventListener("message", (e) => {
+    console.log("incoming");
+    alert("Table updated.HeHeHe 😆")
+
+    const latestPriceData = JSON.parse(e.data);
+
+    data = latestPriceData["data"];
+    dt = data["timeDate"];
+    priceDataLis = data["data"]; //list of object
+
+    //check list not empty and add to content
+    if (Array.isArray(priceDataLis) || priceDataLis.length) {
+      //do a sorting first
+
+      priceDataLis.sort((a, b) => a.symbol.localeCompare(b.symbol));
+
+      reRender(priceDataLis, dt);
+    }
+  });
+
+  //when connected to server
+
+  socket.onopen = (e) => {
+
+    console.log("connected with server");
+  };
+
+  //received from server
+  // socket.onmessage = (e) => {
+  //     console.log("connected to server. waiting to received data");
+  // };
+
+  //send to server
+  // socket.onopen = (e) => {
+  //     console.log("WebSocket connection opened!");
+  // };
+
+  socket.onclose = (e) => {
+    console.log("WebSocket connection closed!");
+  };
+
+  const reRender = (dataList, _time) => {
+    let content = "";
+    for (let x of dataList) {
+      // console.log(x.symbol);
+      // console.log(x.name);
+      // console.log(x.closePrice);
+
+      let row = "";
+      row = `
+  <tr class="even:bg-gray-100 odd:bg-white">
+    <td class="text-center font-bold p-1.5 border-b-2">
+      ${x.symbol}
+
+      <dl class="lg:hidden">
+        <dt class="sr-only">Ticker</dt>
+        <dl class="text-wrap font-light text-xs">${x.name}</dl>
+      </dl>
+    </td>
+
+    <td
+      class="text-center text-wrap p-1.5 border-b-2 w-25 hidden lg:table-cell"
+    >
+      ${x.name}
+    </td>
+
+
+    <td class="text-center font-bold p-1.5 border-b-2 lg:hidden">
+
+    <dl class="lg:hidden">
+      <dt class="font-semibold">Prev:</dt>
+      <dl class="text-wrap font-light text-sm">${x.prevClosePrice.toFixed(
+        2
+      )}</dl>
+      <dt class="font-semibold">Open:</dt>
+      <dl class="text-wrap font-light text-sm">${x.openPrice.toFixed(2)}</dl>
+    </dl>
+    </td>
+
+
+    <td class="text-center p-1.5 border-b-2 font-semibold hidden lg:table-cell">
+      ${x.openPrice.toFixed(2)}
+    </td>
+
+    <td class="text-center p-1.5 border-b-2 font-semibold hidden lg:table-cell">
+      ${x.prevClosePrice.toFixed(2)}
+    </td>
+
+    <td class="text-center p-1.5 border-b-2 font-semibold">
+      ${x.closePrice.toFixed(2)}
+    </td>
+    <td
+      class="text-center p-1.5 border-b-2 font-extrabold ${x.state === "rise"
+          ? "text-green-500"
+          : x.state === "fall"
+            ? "text-red-600"
+            : "text-black"
+        }"
+    >
+    ${x.change.toFixed(2)}
+    </td>
+  </tr>
+  `;
+      content = content + row;
+    }
+
+    const tbody = document.getElementById("tbl_body");
+    tbody.innerHTML = content;
+
+    const timestamp = document.getElementById("fetchTime");
+
+    timestamp.innerHTML = dt;
+  };
+
+  const refreshData = async () => {
+    console.log("clicked,sending to server");
+
+    alert("fetching from server. Alert will be send when ready ");
+
+
+    let response = await fetch("/stock", {
+      method: "get",
+      headers: {
+        "X-Requested-With": "XMLHttpRequest",
+        "Content-Type": "application/json",
+      },
+    });
+
+    data = await response.json();
+    console.log(data);
+
+    if (data["statusAck"] == 200) {
+      console.log('server notified to update table.pls wait');
+    }
+  };
+
+
+
+
+</script>
+
+{% endblock %}
