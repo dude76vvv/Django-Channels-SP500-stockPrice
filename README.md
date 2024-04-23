@@ -50,7 +50,7 @@ To allow bi-directional communication between client and server, websocket is im
 
   
 3. Open another terminal/shell. **CD** to the stock folder and run command to start Celery.
-    - **celery -A  stock worker -P solo -l info y**
+    - **celery -A  stock worker -P solo -l info**
   
 ![image](https://github.com/dude76vvv/Django-Channels-SP500-stockPrice/assets/131178280/562dd4ef-81f3-4b97-b25b-2e0e6c8f7d54)
 
